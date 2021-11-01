@@ -1,0 +1,15 @@
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\bin\Debug\netcoreapp3.1\w04p02-timer.exe
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\bin\Debug\netcoreapp3.1\w04p02-timer.deps.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\bin\Debug\netcoreapp3.1\w04p02-timer.runtimeconfig.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\bin\Debug\netcoreapp3.1\w04p02-timer.runtimeconfig.dev.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\bin\Debug\netcoreapp3.1\w04p02-timer.dll
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\bin\Debug\netcoreapp3.1\w04p02-timer.pdb
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02_timer.Form1.resources
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.dll
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.pdb
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p02-timer\w04p02-timer\obj\Debug\netcoreapp3.1\w04p02-timer.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w04p01-przelicznikWalut", "w04p01-przelicznikWalut\w04p01-przelicznikWalut.csproj", "{C78FCEEA-03A1-4242-BC1E-B3F9DB33B2D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78FCEEA-03A1-4242-BC1E-B3F9DB33B2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78FCEEA-03A1-4242-BC1E-B3F9DB33B2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78FCEEA-03A1-4242-BC1E-B3F9DB33B2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78FCEEA-03A1-4242-BC1E-B3F9DB33B2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AECE4C1-8A24-4027-9DBA-D95466F309EE}
+	EndGlobalSection
+EndGlobal

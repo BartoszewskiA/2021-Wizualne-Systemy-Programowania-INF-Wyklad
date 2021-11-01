@@ -1,0 +1,16 @@
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\bin\Debug\netcoreapp3.1\w04p01-przelicznikWalut.exe
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\bin\Debug\netcoreapp3.1\w04p01-przelicznikWalut.deps.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\bin\Debug\netcoreapp3.1\w04p01-przelicznikWalut.runtimeconfig.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\bin\Debug\netcoreapp3.1\w04p01-przelicznikWalut.runtimeconfig.dev.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\bin\Debug\netcoreapp3.1\w04p01-przelicznikWalut.dll
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\bin\Debug\netcoreapp3.1\w04p01-przelicznikWalut.pdb
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01_przelicznikWalut.Form1.resources
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.dll
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.pdb
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w04p01-przelicznikWalut\w04p01-przelicznikWalut\obj\Debug\netcoreapp3.1\w04p01-przelicznikWalut.genruntimeconfig.cache

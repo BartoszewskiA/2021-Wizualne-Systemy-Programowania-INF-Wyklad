@@ -1,0 +1,14 @@
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\bin\Debug\netcoreapp3.1\w01p01-konsola.exe
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\bin\Debug\netcoreapp3.1\w01p01-konsola.deps.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\bin\Debug\netcoreapp3.1\w01p01-konsola.runtimeconfig.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\bin\Debug\netcoreapp3.1\w01p01-konsola.runtimeconfig.dev.json
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\bin\Debug\netcoreapp3.1\w01p01-konsola.dll
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\bin\Debug\netcoreapp3.1\w01p01-konsola.pdb
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.dll
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.pdb
+D:\PROGRAMOWANIE\2021-22\Wizualne systemy programowania Wyklad Inf\w01p01-konsola\w01p01-konsola\obj\Debug\netcoreapp3.1\w01p01-konsola.genruntimeconfig.cache
