@@ -1,0 +1,18 @@
+﻿<Window x:Class="w05p01_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:w05p01_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="120" Width="200">
+    <DockPanel>
+        <Button DockPanel.Dock="Top">Przycisk pierwszy</Button>
+        <Button DockPanel.Dock="Bottom">03</Button>
+        <Button DockPanel.Dock="Right">Przycisk 2</Button>
+        
+        <Button DockPanel.Dock="Left">Przycisk 4</Button>
+        
+        <Button>Przycisk ostatni</Button>
+    </DockPanel>
+</Window>
