@@ -21,3 +21,5 @@ D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-INF-Wyklad\w06p01-o
 D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-INF-Wyklad\w06p01-okna_dialogowe\w06p01-okna_dialogowe\obj\Debug\net6.0-windows\w06p01-okna_dialogowe.genruntimeconfig.cache
 D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-INF-Wyklad\w06p01-okna_dialogowe\w06p01-okna_dialogowe\obj\Debug\net6.0-windows\OknoWlasne_01.g.cs
 D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-INF-Wyklad\w06p01-okna_dialogowe\w06p01-okna_dialogowe\obj\Debug\net6.0-windows\OknoWlasne_01.baml
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-INF-Wyklad\w06p01-okna_dialogowe\w06p01-okna_dialogowe\obj\Debug\net6.0-windows\OknoSterujace.g.cs
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-INF-Wyklad\w06p01-okna_dialogowe\w06p01-okna_dialogowe\obj\Debug\net6.0-windows\OknoSterujace.baml
