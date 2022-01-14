@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01dd73ba-7c94-4e93-be09-a73dc50c0993": {
+      "ProjectGuid": "01dd73ba-7c94-4e93-be09-a73dc50c0993",
+      "DisplayName": "testCanvas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
