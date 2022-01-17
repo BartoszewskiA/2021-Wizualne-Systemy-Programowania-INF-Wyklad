@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3+zOqOD/qfrN8Buyo8/1Z+pNQdeI3maV+CSArO1a1InJ1dxS45rOiTfwM66MZW809r6zgWSVWncGNsJMRWQGQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMOWANIE\\2021-22\\2021-Wizualne-Systemy-Programowania-INF-Wyklad\\graft1\\graft1\\graft1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artek\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\artek\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
